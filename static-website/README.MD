@@ -1,7 +1,3 @@
-Build Status
-----------------------
-[![Build Status](http://100.26.249.210:8080/buildStatus/icon?job=renaud-deploy-staticwebsite)](http://100.26.249.210:8080/job/renaud-deploy-staticwebsite/)
-
 Static Website Example
 ----------------------
 
